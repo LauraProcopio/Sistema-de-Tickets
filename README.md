@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Tickets - Em Andamento
+# Sistema de Gerenciamento de Tickets 
 
 Este é um projeto em andamento para o desenvolvimento de um **Sistema de Gerenciamento de Tickets**, desenvolvido como parte das matérias de **Programação Web Back-End** e **Programação de Banco de Dados** do curso de Sistemas para Internet. O sistema tem como objetivo fornecer uma solução de gerenciamento de tickets para facilitar a administração e o controle de tarefas ou chamados em uma plataforma.
 
